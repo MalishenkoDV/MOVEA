@@ -94,6 +94,7 @@ input {
 .header__logo {
     font-size: 6.4rem;
     margin-right: 7rem;
+    font-weight: 700;
 }
 .header__nav {
     margin-right: 9.2rem;
@@ -146,6 +147,8 @@ input {
 }
 
 .header__personal {
+    width: 6rem;
+    height: 6rem;
     background-repeat: 50%;
 }
 
